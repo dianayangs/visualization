@@ -11,21 +11,31 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+      Good visualization (https://www.visualcapitalist.com/history-of-pandemics-deadliest/):
+      I consider this a good data visualization because the graphics of the visualization are able to make the viewer feel an impact of the message without shaping the data to skew the viewers opinions one way. There is a clear timeline and all the information is present on the image. It is eye catching and draws the viewer in and is able to convey alot of information without being overly crowded and convoluted. This visualization also gives information about each data point which is nice - the data is layered. It defines all the words used, and gives a different recap of the data at the bottom so you can have better context of the different data point comparisons.
 
 
-
-
-
-
-
+      bad visualization (https://public.tableau.com/views/MOM2026WEEK3WomenConductorsonBroadway/1_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link):
+      I classified this as a bad visualization as a main problem is the perceptuality and aesthetic (slide deck 1). The visualization is not pleasing to look at is hard to follow as the items on the graph are placed sporadically and are difficult to follow. Additionally the sizes of the circles are relative to one another and do not establish a definitive quantity. They include fun facts about certain women but are not linked to one specific data point. As well they include dates on the fun facts which gives the viewer the impression that the dots are arranged chronologically but there is no clear start date, end date, or clear increments in time. The only way to access all these informations is to toggle on the circles however I think all the information should be presented upfront
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+    good visualization: I would say the only thing I would change is to flatten the colouring of the visualization or use simpler graphics. While this is eye catching it can be quite loud (ex. the 'viruses' that represent each pandemic have many details textures). Flat graphics would allow all the same information to be conveyed but it would be less visually taxing. = minimize the noise, reduce visual load
+
+
+    bad visualization:
+    I think the best way to improve this would be to:
+    - establish a clear quantity scale that each size of circle represents
+    - establish a clear timeline or x axis
+    - order the circles based on chronological order so they are not jumbled up like they are now
+    they also do not define what 'women+' means, there is no legend so I would recommend adding a clear definition of who they categorize as women+
 
 
 
-
+references: https://www150.statcan.gc.ca/n1/pub/89-26-0005/892600052022001-eng.htm
+class notes
+https://datasciencebook.ca/viz.html
 
 
       
