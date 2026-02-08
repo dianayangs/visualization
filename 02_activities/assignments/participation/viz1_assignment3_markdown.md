@@ -20,7 +20,7 @@ additionally, I used flat graphics vs 3D to reduce visual load and included the 
 ## How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
 While my visualization was created on prism, I provide the excel workbook with the data I used and sheets to show how I manipulated the data to be processed for the graphs as well as a data_info sheet to explain
 ## How did you ensure that your data visualization is accessible?  
-1. I used viridis colour package
+1. I used colourblind colour package viridis
 2. texts are all at least 12 pt font
 3. I used a dyslexia friendly font type (verdana)
     
